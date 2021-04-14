@@ -5,7 +5,7 @@
 # A Cyber Security and Networking Enthusiast :computer:
 
 🟦 My Real name is Noor  
-🟥 Nickhame Scriptie  
+🟥 Nick-name Scriptie  
 🟩 21 y/o  
 🚩 Member of HugsForBugs CTF Team
 
