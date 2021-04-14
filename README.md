@@ -8,6 +8,7 @@
 🟥 Nick-name Scriptie  
 🟩 21 y/o  
 🚩 Member of HugsForBugs CTF Team
+📧 scr1ptie@protonmail.com
 
 <p align="center">
 <a href="https://hugsforbugz.github.io"><img src="https://avatars.githubusercontent.com/u/82338549?s=200&v=4" width="45" height="45"/></a>
