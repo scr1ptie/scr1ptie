@@ -6,7 +6,7 @@
 
 🟦 My Real name is Noor  
 🟥 Nickhame Scriptie  
-🟩 20 y/o  
+🟩 21 y/o  
 🚩 Member of HugsForBugs CTF Team
 
 <p align="center">
