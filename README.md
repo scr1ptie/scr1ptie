@@ -7,12 +7,16 @@
 🟦 My name is Noor  
 🟥 Nickname Scriptie  
 🟩 21 y/o  
-🚩 Member of HugsForBugs CTF Team  
+🚩 Member of Area-1337 & HugsForBugs CTF Team  
 📧 scr1ptie@protonmail.com  
 
 <p align="center">
+<!-- <script src="https://www.hackthebox.eu/badge/496791"></script> -->
+<img src="http://www.hackthebox.eu/badge/image/496791" alt="Hack The Box">
 <a href="https://hugsforbugz.github.io"><img src="https://avatars.githubusercontent.com/u/82338549?s=200&v=4" width="45" height="45"/></a>
 <a href="mailto:scr1ptie@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
+
+
 </p>
 
 ```py
