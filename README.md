@@ -4,8 +4,8 @@
 
 # A Cyber Security and Networking Enthusiast :computer:
 
-🟦 My name is Noor  
-🟥 Nickname Scriptie  
+🟦 Noor  
+🟥 Scriptie  
 🟩 21 y/o  
 🚩 Member of Area-1337 & HugsForBugs CTF Team  
 📧 scr1ptie@protonmail.com  
