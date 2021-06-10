@@ -12,8 +12,8 @@
 
 <p align="center">
 <!-- <script src="https://www.hackthebox.eu/badge/496791"></script> -->
-<img src="http://www.hackthebox.eu/badge/image/496791" alt="Hack The Box">
-<img src="https://tryhackme-badges.s3.amazonaws.com/scriptie.png" alt="TryHackMe">
+<a href="https://app.hackthebox.eu/users/496791"><img src="http://www.hackthebox.eu/badge/image/496791" alt="Hack The Box"></a>
+<a href="https://tryhackme.com/p/scriptie"><img src="https://github.com/scr1ptie/scr1ptie/blob/main/scriptie.png?raw=true" alt="TryHackMe" width="220" height="50"></a>
 <!-- <a href="https://hugsforbugz.github.io"><img src="https://avatars.githubusercontent.com/u/82338549?s=200&v=4" width="45" height="45"/></a>
 <a href="mailto:scr1ptie@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
  -->
