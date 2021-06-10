@@ -1,5 +1,6 @@
-<p align="center">
-<img src="https://github.com/scr1ptie/scr1ptie/blob/main/walking.gif?raw=true" text-align=center;/>
+<p align=center>
+<!-- <img src="https://github.com/scr1ptie/scr1ptie/blob/main/walking.gif?raw=true" align=right/> -->
+<img src="https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ovjwm6qi8G1uqrdeoo1_500.gifv" align=center/>
 </p>
 
 # A Cyber Security and Networking Enthusiast :computer:
