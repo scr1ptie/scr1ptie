@@ -8,7 +8,7 @@
 🟦 Noor  
 🟥 Scriptie  
 🟩 21 y/o  
-🚩 Member of Area-1337 & <a href="https://hugsforbugz.github.io">HugsForBugs</a> CTF Team  
+🚩 Member of Area-1337 & HugsForBugs CTF Team  
 📧 scr1ptie@protonmail.com  
 
 <p align="center">
