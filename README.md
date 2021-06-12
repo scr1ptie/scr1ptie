@@ -1,6 +1,9 @@
 <p align=center>
 <!-- <img src="https://github.com/scr1ptie/scr1ptie/blob/main/walking.gif?raw=true" align=right/> -->
-<img src="https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ovjwm6qi8G1uqrdeoo1_500.gifv" align=center/>
+<!-- <img src="https://64.media.tumblr.com/ba1e1315c5700e144a6bd1226883534a/tumblr_ovjwm6qi8G1uqrdeoo1_500.gifv" align=center/> -->
+ 
+<img src="https://cdn.discordapp.com/attachments/849325338265518088/853202772949860412/5eef766ce49c262ca93cc807e7795fd2.gif" align=center/>
+ 
 </p>
 
 # A Cyber Security and Networking Enthusiast :computer:
