@@ -6,7 +6,7 @@
  
 </p>
 
-# A Cyber Security and Networking Enthusiast :computer:
+# A Cyber Security & Network Enthusiast :computer:
 
 🟦 Noor  
 🟥 Scriptie  
