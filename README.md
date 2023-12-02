@@ -5,8 +5,10 @@
  <img src="https://api.eu.badgr.io/public/assertions/x0XEgucNQ0Wx2FqnP5s2og/image" width="80" height="80"/>
  <img src="https://images.credly.com/size/340x340/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" width="80" height="80"/>
  <img src="https://certifications.tcm-sec.com/wp-content/uploads/2023/02/PNPT-certification.webp" width="80" height="80"/>
- <img src="CEH_2E345519D3F7.png?raw=true" width="80" height="80"/>
+ <img src="images/CEH_2E345519D3F7.png?raw=true" width="80" height="80"/>
 </p>
+
+<img href="https://google.com" src="images/Discord-image.svg?raw=true"/>
 
 [![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr1ptie&show_icons=true&theme=radical)](https://github.com/scr1ptie/github-readme-stats)
 
