@@ -10,6 +10,6 @@
 
 Feel free to get in touch with me on discord. My username `scriptie`
 
-[![Scriptie's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr1ptie&show_icons=true&theme=radical)](https://github.com/scr1ptie/github-readme-stats)
+Interested in Exploit Programming & Source Code Analysis 🥈 Bit of an veteran in Penetration testing and Red Teaming
 
-🌱 Learning Exploit Programming & Source Code Analysis 🥈 Bit of an veteran in Penetration testing and Red Teaming
+[![Scriptie's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr1ptie&show_icons=true&theme=radical)](https://github.com/scr1ptie/github-readme-stats)
