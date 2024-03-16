@@ -10,7 +10,7 @@
 
 Feel free to get in touch with me on discord. My username `scriptie`
 
-Interested in Exploit Programming & Source Code Analysis 
+Focused on Exploit Programming & Source Code Analysis 
 
 🥈 Veteran in Penetration testing and Red Teaming
 
