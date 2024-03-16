@@ -8,7 +8,7 @@
  <img src="images/CEH_2E345519D3F7.png?raw=true" width="80" height="80"/>
 </p>
 
-<img href="https://google.com" src="images/Discord-image.svg?raw=true"/>
+Feel free to get in touch with me on discord. My username `scriptie`
 
 [![Scriptie's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr1ptie&show_icons=true&theme=radical)](https://github.com/scr1ptie/github-readme-stats)
 
