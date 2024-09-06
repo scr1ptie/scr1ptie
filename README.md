@@ -9,6 +9,7 @@
  <img src="https://import.cdn.thinkific.com/584845%2Fcustom_site_themes%2Fid%2Fl9ahAOg5S4iWGIYX65z6_zp-coin-red.png?width=600" width="100" height="100"/> 
  <img src="https://certifications.tcm-sec.com/wp-content/uploads/2023/02/PNPT-certification.webp" width="100" height="100"/>
  <img src="images/CEH_2E345519D3F7.png?raw=true" width="100" height="100"/>
+  <img src="https://johnjhacking.com/uploads/cehmaster_5fb43496785f-002.png" width="100" height="100"/>
 </p>
 
 Feel free to get in touch with me on discord. My username `scriptie`
