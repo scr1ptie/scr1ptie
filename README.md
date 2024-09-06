@@ -14,6 +14,6 @@ Feel free to get in touch with me on discord. My username `scriptie`
 
 Focused on Exploit Programming & Source Code Analysis 
 
-🥈 Veteran in Penetration testing and Red Teaming
+🥈 Veteran Penetration Tester
 
 [![Scriptie's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr1ptie&show_icons=true&theme=radical)](https://github.com/scr1ptie/github-readme-stats)
