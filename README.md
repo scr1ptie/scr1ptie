@@ -13,10 +13,8 @@
   <img src="https://johnjhacking.com/uploads/cehmaster_5fb43496785f-002.png" width="100" height="100"/>
 </p>
 
-Feel free to get in touch with me on discord. My username `scriptie`
-
 Focused on Exploit Programming & Source Code Analysis 
 
-🥈 Veteran Penetration Tester
+My discord username `scriptie`
 
 [![Scriptie's GitHub stats](https://github-readme-stats.vercel.app/api?username=scr1ptie&show_icons=true&theme=radical)](https://github.com/scr1ptie/github-readme-stats)
