@@ -7,7 +7,7 @@
  <img src="https://images.credly.com/size/340x340/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" width="100" height="100"/>
  <img src="https://images.credly.com/size/680x680/images/24af3283-ed59-422b-a29c-c274b4df55d8/image.png" width="100" height="100"/>
  <div>
- <img src="https://api.eu.badgr.io/public/assertions/x0XEgucNQ0Wx2FqnP5s2og/image" width="100" height="100"/> 
+ <img src="https://media.eu.badgr.com/uploads/badges/assertion-x0XEgucNQ0Wx2FqnP5s2og.png" width="100" height="100"/> 
  <img src="https://certifications.tcm-sec.com/wp-content/uploads/2023/02/PNPT-certification.webp" width="100" height="100"/>
  <img src="images/CEH_2E345519D3F7.png?raw=true" width="100" height="100"/>
  <img src="https://johnjhacking.com/uploads/cehmaster_5fb43496785f-002.png" width="100" height="100"/>
