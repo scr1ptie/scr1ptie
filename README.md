@@ -14,6 +14,8 @@
  
 <!-- <div> -->
  <img src="https://media.eu.badgr.com/uploads/badges/assertion-x0XEgucNQ0Wx2FqnP5s2og.png" width="90" height="90"/> 
+ <img src="https://images.credly.com/size/340x340/images/47d8681c-da37-42b5-895e-c90ca4636442/blob" width="90" height="90"/>
+ <img src="https://images.credly.com/size/340x340/images/d7e813c1-4ebd-4ee7-82da-9cd400437d9f/image.png" width="90" height="90"/>
  <img src="https://certifications.tcm-sec.com/wp-content/uploads/2023/02/PNPT-certification.webp" width="90" height="90"/>
  <img src="images/CEH_2E345519D3F7.png?raw=true" width="90" height="90"/>
  <img src="https://johnjhacking.com/uploads/cehmaster_5fb43496785f-002.png" width="90" height="90"/>
