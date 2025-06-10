@@ -7,10 +7,10 @@
  <img src="https://www.offsec.com/_astro/OSWE.DI54Eyvq_Ztlntl.svg" width="90" height="90"/>
  <img src="https://www.offsec.com/_astro/OSEP.D_R8bS1A_Ztlntl.svg" width="90" height="90"/>
  <img src="https://www.offsec.com/_astro/OSWP.B_vGDtA8_Ztlntl.svg" width="90" height="90"/>
- <img src="https://academy.hackthebox.com/storage/exam_badges/4fD6SYsBGohDZAs5AsAacJlmn1OTtykViXwoi2sx.png" width="100" height="100"/>
- <img src="https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png" width="100" height="100"/>
- <img src="https://academy.hackthebox.com/storage/exam_badges/34Usv5yEMMlzoADpEcxNrbASpMKwU660cNHAW0no.png" width="100" height="100"/>
- <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width="87" height="87"/>
+<img src="https://images.credly.com/size/680x680/images/c2e161cc-be63-4591-9683-d4ee73edd31f/image.png" height="90" style="vertical-align: middle;"/>
+<img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" height="90" style="vertical-align: middle;"/>
+<img src="https://images.credly.com/size/680x680/images/24af3283-ed59-422b-a29c-c274b4df55d8/image.png" height="90" style="vertical-align: middle;"/>
+<img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" height="90" style="vertical-align: middle;"/>
  
 <!-- <div> -->
  <img src="https://media.eu.badgr.com/uploads/badges/assertion-x0XEgucNQ0Wx2FqnP5s2og.png" width="90" height="90"/> 
